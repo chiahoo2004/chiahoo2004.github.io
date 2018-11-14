@@ -6,4 +6,5 @@ title: Egocentric Human-Object Interaction for Wearable Device
 description: |
 ---
   Deep-Learning-Based Network for First-person Action Recognition
+  
   Hardware-friendly Algorithm and Architecture Design of for Region Proposal Network      

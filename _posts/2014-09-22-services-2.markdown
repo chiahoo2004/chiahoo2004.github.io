@@ -6,4 +6,5 @@ title: GPU-Accelerated High-Resolution Image Stitching
 description: |
 ---
   CUDA implementation for state-of-the-art image stitching algorithm
+  
   [Website](https://yhmtsai.github.io/GPU-accelerated-Natural-Image-Stitching-with-Global-Similarity-Prior/) [Paper](https://ieeexplore.ieee.org/document/8326271)
